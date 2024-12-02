@@ -6,9 +6,6 @@ Converts PDF files to docx format.
 
 ## Installation
 
-### ZIP link 
-https://ln5.sync.com/dl/0a09c3570#db2bby6j-rdq934gu-ar75d5jj-wzdpvepy
-
 ### Setup link
 https://ln5.sync.com/dl/75331b350#fchm63t4-bh9kde3c-k4sgftzx-sjfv3kpv
 
