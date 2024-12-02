@@ -1,0 +1,5 @@
+/build
+/dist
+/gui.spec
+/PDFConvert.spec
+/__pycache__
